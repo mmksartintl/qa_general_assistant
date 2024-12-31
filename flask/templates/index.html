@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 {% extends 'base.html' %}
 {% block content %}
-    <h1>{% block title %} Welcome to FlaskBlog {% endblock %}</h1>
+    <h1>{% block title %} Welcome to Dcide FMB Chat {% endblock %}</h1>
+    <a href="create">
+        <h2>Send your question/post</h2>
+    </a>
+    <a>
+        <h5>Click above to send your question/post</h5>
+    </a>
+    <hr>
+
     {% for post in posts %}
         <a href="create">
             <h2>{{ post['title'] }}</h2>

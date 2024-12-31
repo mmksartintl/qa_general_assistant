@@ -15,8 +15,7 @@ A partir disso, o FMB fornece ferramentas de acompanhamento que vão desde o pla
 Considerando o processo mencionado, o contrato passa a ter papel essencial por ser o elemento principal que direciona os demais ciclos da ferramenta. Os diagramas abaixo são apresentados como forma de resumir o ciclo de vida de um contrato, tendo sua origem na aprovação de uma proposta comercial, seguido pelas etapas realizadas dentro de cada mês de suprimento.
 
 Esse diagrama com suas respectivas etapas pode ser agrupado através de processos, os quais são refletidos nas telas e funcionalidades do FMB. Por exemplo, o processo de exercício das flexilbilidades, está atrelado no software às ferramentas disponíveis na aba “Gestão de Flexibilidades”, incluindo os ciclos de sazonalidade e de Take-or-pay.
-
-Para conhecer um pouco mais sobre como as suas informações estão organizadas no FMB Denergia, não deixe de ler também este link."
+"
 "Organização da Informação no FMB
 No FMB Denergia a informação é organizada de acordo com a seguinte estrutura:
 
@@ -47,3 +46,53 @@ Somado a relatórios exportáveis para o Excel, existem uma ampla gama de gráfi
 Relatórios customizados adicionais podem ser facilmente montados a partir das informações disponíveis, ou integrados com ferramentas de Data Analytics e Business Inteligence da empresa."
 "Processos CCEE
 Considerando todas as particularidades das regras de comercialização e conversando na mesma linguagem do CliqCCEE, os processos CCEE do FMB Denergia foram construídos para mitigar o risco de perdas operacionais e minimizar o impacto da elevada demanda de trabalho no período de registro de contratos. Permitindo controle minucioso em cada etapa do processo, incluindo a verificação das condições de garantias, a gestão de registros contra pagamento e a validação de agentes representados. Tudo isso integrado com a plataforma de serviços da CCEE, o que permite o envio automático dos XML e a verificação dos contratos CCEE."
+"FMB é uma plataforma de gestão de energia orientada a processos e alinhada com as melhores práticas de mercado, construída nativamente para o setor elétrico brasileiro para atender toda a cadeia de etapas relacionadas à comercialização de eletricidade.
+
+Fluída, amigável, robusta e riquíssima em ferramentas analíticas, com interfaces construídas para considerar as especificidades da comercialização de energia, atende as mais rigorosas demandas de compliance e controle, além de ser completamente integrável com os ERP’s de mercado, o CliqCCEE, o SCDE ou ferramentas internas das empresas."
+"Solicitando aprovações
+O FMB Denergia, por ser um sistema pautado em conceitos e práticas de compliance, permite que todas as ações do sistema sejam facilmente rastreáveis, no sentido de permitir a identificação de qual usuário realizou certa ação. Além disso, conforme artigos do tópico “Usuários”, cada usuário é configurado com permissões e alçadas correspondentes ao seu escopo de atuação, refletindo nos acessos e possibilidades de ações dentro do FMB.
+
+Nesse sentido, o mecanismo de aprovações é comum a diversos processos do software, funcionando em dois níveis:
+
+Validações: conduzidas pelo próprio usuário operador, para validar valores e entradas realizadas no software.
+
+Aprovações: envio dos objetos (contratos, faturas, entre outros), geralmente ao final dos processos, para a aprovação de usuário com alçada superior correspondente.
+
+Assim, pode-se dizer que as aprovações funcionam no FMB Denergia como um “carimbo” concedido por gerente, diretor ou outro usuário configurado com alçada equivalente, autenticando o objeto ao final de um processo para que este possa caminhar para os próximos ciclos no sistema. Por exemplo, ao final do cadastro de um contrato, geradas suas agendas, este deve ser enviado para aprovação para que possa prosseguir para os ciclos de faturamento, garantias, flexibilidades e outros.
+
+A solicitação de aprovações é realizada de forma similar em todos os processos em que são necessárias, sendo necessário selecionar o objeto que deseja-se aprovar, indicar o nome do usuário aprovador e clicar no botão em destaque “Enviar para aprovação”."
+"Cadastrando um novo portfólio
+Uma das ferramentas mais importantes de análise disponíveis no FMB Denergia demanda a construção de portfólios. O portfólio funciona como uma “pasta/arquivo” que irá agregar todas as informações dos contratos e parcelas de ativo a ele pertencentes. Essa organização permite o uso da tela “Análise de Portfólio” para estudar, dentre outros aspectos, o balanço de energia e o resultado comercial provenientes do portfólio e suas eventuais exposições."
+"Utilizando a Análise de Portfólio
+Buscando facilitar a análise e o entendimento da exposição e do resultado financeiro correspondente à carteira do cliente, considerando tanto contratos de compra e venda, como parcelas de ativo, o FMB disponibiliza a tela “Análise de Portfólio”, dentro da aba “Análise” do menu lateral do FMB.
+
+As análises disponíveis nessa tela e suas correspondentes descrições são:
+
+Balanço por fonte: agregados através das fontes Convencional e Incentivada (0%, 50%, 80% e 100%) são apresentados os montantes de energia de requisito, composto por vendas, recurso, correspondente aos contratos de compra e garantia física/geração, além do balanço resultante.
+Balanço por submercado: apresenta os montantes de energia e o balanço/exposição correspondente através de uma agregação pelos submercados do SIN (SE/CO, S, NE e N).
+Resultado financeiro: visão financeira do portfólio, apresentando o resultado comercial proveniente dos contratos de compra e venda além do efeito da liquidação da posição em aberto, podendo considerar o PLD e uma curva de preços Forward.
+Média móvel por fonte:  cálculo da média móvel dos montantes de energia, sendo aplicado para gestão e lastro.
+Preço médio: relatório de preços médios, calculados para receita (vendas + sobras) e despesa (compras + déficits), além da margem de comercialização resultante.
+Relatório FIFO [disponível apenas através de customização]: Relatório de preços considerando a metodologia FIFO (First In, First Out).
+Para utilizar as funcionalidades dessa tela, basta escolher o tipo de análise, selecionar o portfólio e os correspondentes parâmetros (unidade, período, curva Forward, valores utilizados e agregação temporal), clicando, ao final, em “Executa análise”."
+"Como está organizado o faturamento?
+No FMB Denergia o processo de faturamento é dividido em dois ciclos: o ciclo de faturamento (vendas/compras) e a emissão de notas fiscais.
+
+No ciclo de faturamento, temos as etapas de validação da energia, validação do preço e emissão da pré-fatura.
+
+Energia – Nessa etapa é necessário o exercício das flexibilidades para definição das quantidades finais a serem faturadas, e posteriormente é feita a validação desses valores.
+Preço – Nas atividades correspondente ao preço das faturas estão disponíveis a validação do reajuste, de preços variáveis e regras de preços, como caps, floors e collars. Ao final do processamento dessas condições, é também necessária a validação dos preços finais.
+Pré-fatura – Após a conclusão as etapas de energia e preço, a caixa de pré-fatura estará disponível para executar."
+"Cadastro de Contratos CCEE
+O FMB Denergia, sendo uma solução completa para front, middle e back-offices de empresas do setor elétrico, passa também pelos processos de registro na CCEE. Esse registro é dividido em quatro processos principais: a sincronização de contratos CCEE (registro de contratos), o ciclo mensal de ajustes de vendas, a validação de registros de compras e o ciclo mensal de validação de ajustes de compras."
+"Workflow de propostas – Da proposta ao contrato
+O FMB Denergia disponibiliza, dentre suas funcionalidades, a criação e o acompanhamento de propostas. O menu de propostas do FMB permite então que todo o processo comercial seja mapeado pelos usuários, passando pelas etapas de confecção, aprovação, envio e aceite, com a conversão, ao final, das propostas aceitas em contratos FMB para o faturamento e demais ciclos. Assim, a utilização dessa ferramenta confere agilidade ao processo de cadastro de operações através de uma tela simples, onde já serão indicadas as informações essenciais do futuro contrato, como contraparte, energia, preço e período de suprimento.
+
+Com isso, após a criação de uma proposta (leia mais aqui), o usuário poderá caminhar por um workflow específico, detalhado na imagem abaixo. Os status de proposta são, então:
+
+Em confecção: etapa inicial após o preenchimento das informações de criação;
+Aguardando aprovação: envio para aprovação de usuário com permissão adequada (gestor/gerente/responsável);
+Aprovada: status após aprovação, podendo ser enviada para a contraparte ou cancelada;
+Enviada: registro de que houve envio para a contraparte, ficando pendente a resposta, positiva ou negativa, do aceite;
+Aceita: proposta aceita pela contraparte, pronta para ser convertida em contrato FMB para que se dê início aos processos de suprimento, faturamento e registro;
+Convertida: Proposta convertida em contrato FMB;"
