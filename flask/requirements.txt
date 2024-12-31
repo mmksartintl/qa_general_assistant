@@ -1,0 +1,4 @@
+langchain-groq
+chromadb
+flask
+pandas

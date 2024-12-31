@@ -1,0 +1,49 @@
+scrapped_text
+"O que é o FMB Denergia?
+Inserida no ecossistema Denergia, o FMB Denergia é uma plataforma integrada, desenvolvida para atender as demandas das áreas de Front, Middle e Back Offices, cobrindo o fluxo completo do mercado de comercialização de energia.
+
+Aderente às regras setoriais, o FMB Denergia foi desenhado para atender as melhores práticas de gestão de contratos e carteiras de energia, cálculo e acompanhamento quantitativo de risco, integração entre processos, sistemas e áreas.
+
+O sistema busca viabilizar então os processos da comercialização de energia partindo de três esferas: os processos principais, baseados na regulação e nas melhores práticas do mercado, comuns a todas as empresas do setor; as atividades específicas em função de ramo de atuação da empresa (comercializadora, geradora, entre outros) e as características particulares de cada cliente, considerando suas formas de reporting e sistemas já existentes."
+"Ciclo de vida na gestão de um contrato
+O FMB Denergia é uma plataforma estruturada para percorrer os diversos processos de comercialização de energia e permitir aos usuários a gestão eficiente de seus contratos e a redução do risco operacional, organizando cada passo de atividades como o faturamento, a gestão de ativos, entre outros.
+
+Com isso, o FMB, em sua orientação a processos, foi concebido segundo os processos críticos ilustrados abaixo:
+
+A partir disso, o FMB fornece ferramentas de acompanhamento que vão desde o planejamento, permitindo rápidas análises de portfólios customizáveis, passando pelos processos de boletagem de contratos, faturamento e recebimentos até o registro na CCEE e eventuais rentes da emissão da nota correspondente.
+
+Considerando o processo mencionado, o contrato passa a ter papel essencial por ser o elemento principal que direciona os demais ciclos da ferramenta. Os diagramas abaixo são apresentados como forma de resumir o ciclo de vida de um contrato, tendo sua origem na aprovação de uma proposta comercial, seguido pelas etapas realizadas dentro de cada mês de suprimento.
+
+Esse diagrama com suas respectivas etapas pode ser agrupado através de processos, os quais são refletidos nas telas e funcionalidades do FMB. Por exemplo, o processo de exercício das flexilbilidades, está atrelado no software às ferramentas disponíveis na aba “Gestão de Flexibilidades”, incluindo os ciclos de sazonalidade e de Take-or-pay.
+
+Para conhecer um pouco mais sobre como as suas informações estão organizadas no FMB Denergia, não deixe de ler também este link."
+"Organização da Informação no FMB
+No FMB Denergia a informação é organizada de acordo com a seguinte estrutura:
+
+Entradas: Correspondem aos metadados necessários para execução dos processos, sendo cadastrados pelos usuários ou via integrações.
+Agendas: As agendas são os objetos do sistema que irão organizar as informações inseridas e alimentar os ciclos mensais. Um exemplo é a agenda de faturamento que apresenta de forma mensal os montantes de energia, preços negociados e o valor total de cada fatura.
+Processos: Os processos são organizados em ciclos mensais, a partir dos quais os usuários conseguem executar as ações necessárias, de exercer uma flexibilidade a emitir uma pré-fatura. Para facilitar a utilização da ferramenta, o usuário tem a opção de uma série de customizações, incluindo a integração com outros softwares, como ERPs de mercado e a Plataforma de Integração da CCEE. Para conhecer melhor os processos que o FMB inclui, clique aqui.
+Relatórios: Após a execução dos processos mensais, são disponibilizados para os usuários uma série de relatórios para análises específicas, como o balanço resultante e o resultado comercial.
+O diagrama abaixo serve como ilustração dessa organização e elenca exemplos de componentes pertencentes a cada grupo explicado anteriormente:
+
+É importante destacar que no FMB existe uma hierarquia entre as informações, decorrente da própria lógica dos processos, e isso deve ser respeitado durante o cadastro de entidades no sistema. Por exemplo, um perfil de agente precisa estar vinculado a um agente, e o agente, por sua vez, à empresa correspondente. Assim, para facilitar a compreensão dessas relações, desenhamos o seguinte diagrama:"
+"Processos da Comercialização
+Como uma plataforma orientada a processos, construída com base na experiência de diversos especialistas de todas as áreas do setor, o FMB Denergia ajuda a reduzir substancialmente o risco operacional das empresas, dando visibilidade à camada executiva em todas as etapas do processo, organizando cada passo do faturamento, gestão CCEE, gestão de ativos, contas a pagar e receber, dentre outros.
+
+Os relatórios e interfaces analíticas permitem a cada nível de gestão ter controle sobre o andamento dos processos e seus números, levando a escala executiva um grande repertório de indicadores, potencializando a tomada de decisão e a visão estratégica."
+"Gestão de Contratos
+O FMB Denergia permite cadastrar e mapear virtualmente todos os contratos do ACL e os principais templates do ACR.
+
+Cobrindo todas as etapas do ciclo de vida destes contratos, o sistema garante uma gestão eficiente, baseada nas melhores práticas do mercado.
+
+Dentre as ferramentas de compliance e controle, destacam-se as de aprovação por e-mail e via sistema, e a gestão de alçadas, que trazem segurança e visibilidade na execução dos processos contratuais."
+"Integrações
+O FMB Denergia é construído inteiramente sob a base de API’s (Application Programming Interface) disponibilizadas via Web Services, o que permite a extração ou envio de qualquer tipo de informação de maneira direta e simples. Isso faz com que o FMB Denergia seja integrável com qualquer sistema, incluindo aqueles de gestão de acesso como o ActiveDirectory, os principais ERP’s de mercado, os serviços de integração disponíveis na CCEE para gestão do registro e da medição, e principalmente as ferramentas de informação e análise de risco da Dcide, obtendo informações de preços assim que são disponibilizadas e permitindo a medição quantitativa do risco de mercado dos portfólios de energia disponíveis no FMB."
+"Análise de Portfólio
+Com um know-how reconhecido no mercado construímos um completo arcabouço para análise e gestão de indicadores de portfólios, incluindo ativos de consumo e geração que passam pelo balanço energético, resultado financeiro, análise de margens e preços médios, médias móveis das carteiras, entre outras.
+
+Somado a relatórios exportáveis para o Excel, existem uma ampla gama de gráficos e funcionalidades de organização e consulta de informação, desenhadas para apresentar a informação de forma eficiente e agradável, alinhada com as principais práticas do setor.
+
+Relatórios customizados adicionais podem ser facilmente montados a partir das informações disponíveis, ou integrados com ferramentas de Data Analytics e Business Inteligence da empresa."
+"Processos CCEE
+Considerando todas as particularidades das regras de comercialização e conversando na mesma linguagem do CliqCCEE, os processos CCEE do FMB Denergia foram construídos para mitigar o risco de perdas operacionais e minimizar o impacto da elevada demanda de trabalho no período de registro de contratos. Permitindo controle minucioso em cada etapa do processo, incluindo a verificação das condições de garantias, a gestão de registros contra pagamento e a validação de agentes representados. Tudo isso integrado com a plataforma de serviços da CCEE, o que permite o envio automático dos XML e a verificação dos contratos CCEE."
